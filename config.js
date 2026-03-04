@@ -4,8 +4,8 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['2349164898577','917023951514'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['Boss-Bot', 'Israel'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['2349164898577','2349016245780'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerName: ['Israel', 'Israel'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: 'Boss-Bot',
@@ -74,7 +74,7 @@ module.exports = {
     },
     
     // Timezone
-    timezone: 'Asia/Kolkata',
+    timezone: 'Africa/Lagos',
     
     // Limits
     maxWarnings: 3,
